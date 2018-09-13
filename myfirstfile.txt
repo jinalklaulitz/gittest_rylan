@@ -1,1 +1,2 @@
 Hello World
+Should be an error
